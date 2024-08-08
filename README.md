@@ -26,7 +26,7 @@
 		</a>
 	</p>
 	<p>
-		<a href="https://discord.gg/cZSWqAF">
+		<a href="https://discord.com/invite/FTjzNgDXdM">
 			<img src="https://canary.discordapp.com/api/guilds/424963290989461514/embed.png" alt="Discord server">
 		</a>
 	</p>
